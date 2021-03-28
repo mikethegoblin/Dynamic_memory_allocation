@@ -1,7 +1,7 @@
 # Dynamic_memory_allocation
 Final Project, Basic Memory Management Systems developed by
-Zeyu Gu, BU id: U94989001
-and Junyu Liu, BU id: U55856281
+Zeyu Gu, 
+and Junyu Liu, 
 
 Included in this final project are two types of heap management systems: 
 pa31.c (part 1) implements a basic memory management system that uses impilicit list and first fit policy.
